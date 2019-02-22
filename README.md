@@ -1,0 +1,2 @@
+# Nexter Project
+This project includes a mock real estate website. The purpose of the project was to gain knowledge in CSS Gird; therefore it is mostly built using the CSS Grid property. Every component displayed on the website is created purely in CSS and does not include any Javscript.
